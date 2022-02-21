@@ -4,7 +4,7 @@
 - [Watch on Youtube](https://youtu.be/o2QE4D5PQbY)
 - [Download Source Code](https://www.patreon.com/posts/62100029)
 
-[![App UI](https://user-images.githubusercontent.com/16510597/154971276-14c3ea57-b07d-49ba-9c6a-bacf7589c14d.png)](https://www.patreon.com/posts/62100029)
+[![App UI](https://user-images.githubusercontent.com/16510597/154971276-14c3ea57-b07d-49ba-9c6a-bacf7589c14d.png)](https://youtu.be/o2QE4D5PQbY)
 
 A new Flutter project.
 
