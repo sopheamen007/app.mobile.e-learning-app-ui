@@ -1,4 +1,11 @@
-# e_learnig_clone
+# E-Learning UI KIT
+
+- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
+- [Watch on Youtube](https://youtu.be/o2QE4D5PQbY)
+- [Download Source Code](https://www.patreon.com/posts/62100029)
+
+[![App UI](https://user-images.githubusercontent.com/16510597/154971276-14c3ea57-b07d-49ba-9c6a-bacf7589c14d.png)](https://youtu.be/o2QE4D5PQbY)
+[![a_1](https://user-images.githubusercontent.com/16510597/148006424-0e8d3928-373c-44ea-b812-d4a800088497.png)](https://www.patreon.com/posts/58485515)
 
 A new Flutter project.
 
